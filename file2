@@ -1,1 +1,4 @@
 class hello
+{
+int i=1
+}
